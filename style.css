@@ -60,8 +60,24 @@ svg{
 }
 
 @media (max-width:900px) {
+	.merryText, .merryTextBg, .fromChrisText{
+	 font-family:'mountains_of_christmasregular' ;
+	  fill:#fffcf9;
+	  text-anchor:middle;
+	  font-size:2em;
+	  font-family:sans-serif;
+	}
+	.merryTextBg{
+	
+	  stroke:#C89568;
+	  fill:transparent;
+	  stroke-width:3;
+	  text-anchor:middle;
+	  font-size:2em;
+	  font-family:sans-serif;
+	}
 	.fromChrisText{
-		font-size:1.1em;  
+		font-size:20px;  
 		fill:#C89568;
 	}
 }
