@@ -37,7 +37,7 @@ svg{
  font-family:'mountains_of_christmasregular' ;
   fill:#fffcf9;
   text-anchor:middle;
-  font-size:2em;
+  font-size:3.64em;
   font-family:sans-serif;
 }
 .merryTextBg{
@@ -46,7 +46,7 @@ svg{
   fill:transparent;
   stroke-width:3;
   text-anchor:middle;
-  font-size:2em;
+  font-size:3.64em;
   font-family:sans-serif;
 }
 
@@ -55,7 +55,7 @@ svg{
 	font-family:sans-serif;
 }
 .fromChrisText{
-	font-size: 20px;
+	font-size: 1.64em;
 	min-width: 90vw;
 }
 
